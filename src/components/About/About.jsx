@@ -9,7 +9,7 @@ import backg from './backg.jpg';
 export const About = () => {
 
     const handleDownload = () => {
-        const pdfUrl = "/CV__FAROUK_BEN__ALAYA.pdf";
+        const pdfUrl = "https://farouk527.github.io/portfoliofba/CV__FAROUK_BEN__ALAYA.pdf";
         const link = document.createElement('a');
         link.href = pdfUrl; 
         link.download = 'Cv_Farouk.pdf';
