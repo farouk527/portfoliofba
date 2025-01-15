@@ -1,0 +1,24 @@
+[
+    {
+      "degree": "Master's Degree in Computer Science",
+      "startDate": "09-2022",
+      "endDate": "09-2024",
+      "institution": "Université de Bretagne Occidentale UFR Sciences et Technique",
+      "location": "Brest, France"
+    },
+    {
+      "degree": "First Year of the Engineering Cycle in Embedded Systems and IoT",
+      "startDate": "09-2021",
+      "endDate": "07-2022",
+      "institution": "Higher Institute of Computer Science",
+      "location": "Tunis"
+    },
+    {
+      "degree": "Bachelor's Degree in Embedded Computer Systems",
+      "startDate": "09-2018",
+      "endDate": "06-2021",
+      "institution": "Higher Institute of Computer Science",
+      "location": "Tunis"
+    }
+  ]
+  

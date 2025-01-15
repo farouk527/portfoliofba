@@ -1,0 +1,17 @@
+.bigdiv {
+  display: flex;              
+  justify-content: center;    
+  align-items: center;        
+  text-align: center;         
+  padding: 20px;              
+  margin: 4% auto 0 auto;
+  gap: 50px; 
+  background-color: #130C40;
+}  
+.info-div {
+  display: flex;
+  flex-direction: column;     
+  justify-content: center;    
+  align-items: flex-start;  
+  border-radius: 20%;
+}

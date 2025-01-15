@@ -1,0 +1,16 @@
+
+
+.navbar .MuiToolbar-root {
+    justify-content: center;
+}
+
+.navbar .MuiMenuItem-root {
+    color: rgb(14, 14, 14); 
+    font-weight: 500; 
+}
+.navbar .MuiMenuItem-root :hover {
+    color: #130C40;
+    font-weight: 1000; 
+}
+
+

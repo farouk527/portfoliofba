@@ -1,0 +1,13 @@
+.BigDiv {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-top: 5% ;
+}
+.seconddiv h1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+

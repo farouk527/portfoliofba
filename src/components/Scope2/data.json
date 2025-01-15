@@ -1,0 +1,78 @@
+{
+    "experiences": [
+      {
+        "title": "Full Stack Web Developer",
+        "dates": "03-2024 - 09-2024",
+        "company": "Alten",
+        "location": "Paris, France",
+        "projects": [
+          {
+            "name": "PROJECT PORTAL",
+            "description": "Web development - Real-time customizable remote display",
+            "technologies": [
+              "React.js",
+              "MongoDB",
+              "Node.js",
+              "Express.js",
+              "Azure DevOps",
+              "Postman",
+              "Raspberry Pi",
+              "Docker",
+              "Git"
+            ]
+          },
+          {
+            "name": "PROJECT Assistant NC",
+            "description": "Development of web interfaces for the 8D methodology",
+            "technologies": [
+              "Angular",
+              "SQL",
+              "Azure DevOps",
+              "Postman",
+              "Git"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Research and Development Developer",
+        "dates": "04-2023 - 06-2023",
+        "company": "Lab STIC and Funded by Thalés",
+        "location": "Brest, France",
+        "technologies": [
+          "C++",
+          "SYCL",
+          "Intel DevCloud"
+        ]
+      },
+      {
+        "title": "Full Stack Web Developer",
+        "dates": "03-2021 - 08-2021",
+        "company": "Linedata",
+        "location": "Tunis, Tunisia",
+        "technologies": [
+          "React.js",
+          "MongoDB",
+          "Node.js",
+          "Express.js",
+          "Git",
+          "Postman"
+        ]
+      },
+      {
+        "title": "Worker Internship",
+        "dates": "06-2019 - 07-2019",
+        "company": "Tunisie Télécome",
+        "location": "Tunis, Tunisia",
+        "technologies": [
+          "React.js",
+          "MongoDB",
+          "Node.js",
+          "Express.js",
+          "Git",
+          "Postman"
+        ]
+      }
+    ]
+  }
+  
