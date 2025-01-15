@@ -32,8 +32,7 @@ function Experiences() {
                 <Typography variant="h5" component="div" gutterBottom color='white'>
                   {experience.title}
                 </Typography>
-                <Typography variant="subtitle1" color="text.secondary" color='white
-                '>
+                <Typography variant="subtitle1"  color='white'>
                   {experience.dates} - {experience.company}, {experience.location}
                 </Typography>
 
