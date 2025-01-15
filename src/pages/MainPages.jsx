@@ -7,7 +7,7 @@ import { useRef } from 'react';
 import Scope2 from '../components/Scope2/Scope2';
 import Scope3 from '../components/Scope3/Scope3';
 import Scope4 from '../components/Scope4/Scope4';
-import Footer from '../components/footer/Footer';
+import Footer from '../components/footer/Footerfile';
 
 function MainPages() {
   const aboutRef = useRef(null);
